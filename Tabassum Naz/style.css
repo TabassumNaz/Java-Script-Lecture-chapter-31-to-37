@@ -1,0 +1,14 @@
+Body {
+    background: rgb(143, 186, 226);
+}
+#demo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #1733cf;
+    font-size: 100px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    border: 2px solid rgb(31, 29, 29); 
+}
